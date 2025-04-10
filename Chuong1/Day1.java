@@ -3,7 +3,7 @@ package Chuong1;
 public class Day1 {
     public static void main(String[] args) {
         // In thông tin cá nhân
-        System.out.println("Mã Sinh Viên: 22210503332221050333");
+        System.out.println("Mã Sinh Viên: 2221050333");
         System.out.println("Họ & Tên: Lê Công Nhất");
         System.out.println("Khoa : Công Nghệ Thông Tin");
         System.out.println("Ngành: Khoa Học Dữ Liệu");
