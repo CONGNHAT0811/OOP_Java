@@ -21,4 +21,8 @@
    String name = "Nguyen Van A"; // Chuỗi
    int[] numbers = {1, 2, 3, 4, 5}; // Mảng
 
-4. Các khai báo biến : 
+4. Cấu trúc điều khiển chương trình 
+**Cấu trúc tuần tự**: 1 dạy các câu lệnh các hàm được thực hiện tuần tự 
+**Cấu trúc lặp** các vòng lặp for, do(Câu lệnh) while(điều kiện), while(Diều kiện, câu lệnh)
+**Cấu trúc tuyển trọn** Điều kiện rẽ nhanh if else , swith-case
+
