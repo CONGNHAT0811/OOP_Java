@@ -12,7 +12,6 @@
 
 3. Ví dụ minh họa:  
    ```java
-   // Kiểu dữ liệu nguyên thủy
    int age = 25; // Số nguyên
    double salary = 5000.75; // Số thực
    boolean isActive = true; // Logic
@@ -26,3 +25,5 @@
 **Cấu trúc lặp** các vòng lặp for, do(Câu lệnh) while(điều kiện), while(Diều kiện, câu lệnh)
 **Cấu trúc tuyển trọn** Điều kiện rẽ nhanh if else , swith-case
 
+5. Mảng( Array )
+Mảng là kiểu dữ liệu có câú trúc gồm 1 t
