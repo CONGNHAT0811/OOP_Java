@@ -6,6 +6,7 @@ public class HinhChuNhat extends HinhHoc {
     public float chieuRong;
 
     public HinhChuNhat() {
+        super();
         ten = "Hinh Chu Nhat";
     }
     public void nhapChieuDai(){
@@ -24,4 +25,5 @@ public class HinhChuNhat extends HinhHoc {
     public void tinhDienTich(){
         dienTich = chieuDai * chieuRong;
     }
+    
 }

@@ -5,6 +5,7 @@ public class HinhTron extends HinhHoc {
     public float banKinh;
 
     public HinhTron(){
+        super();
         ten = "Hinh Tron";
     }
 

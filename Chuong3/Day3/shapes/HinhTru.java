@@ -7,7 +7,7 @@ public class HinhTru  extends HinhTron {
         ten = "Hinh Tru";
     }
     public void nhapChieuCao(){
-        nhapBanKinh();
+        super.nhapBanKinh();
         Scanner sc = new Scanner(System.in);
         System.out.print("Nhap chieu cao: ");
         chieuCao = sc.nextFloat();

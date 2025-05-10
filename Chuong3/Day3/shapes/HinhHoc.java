@@ -6,6 +6,11 @@ public class HinhHoc {
     public float theTich;
     public float dienTich;
     public float chuVi;
+    public  static int dem = 0;
+
+    public HinhHoc(){
+        dem++;
+    }
 
     public void xuatTen(){
         System.out.println("Hình: " + ten);
