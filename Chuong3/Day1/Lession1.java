@@ -12,11 +12,9 @@ public class Lession1 {
             for (int i = 0; i < n; i++) {
                 System.out.println("Nhập hình tròn thu " + (i + 1));
                 HinhTrons[i] = new HinhTron();
-                HinhTrons[i].nhapBanKinh(scanner);
-                HinhTrons[i].tinhChuVi();
-                HinhTrons[i].tinhDienTich();
-                HinhTrons[i].inChuVi();
-                HinhTrons[i].inDienTich();
+                HinhTrons[i].nhapThongTin(scanner);
+                HinhTrons[]
+
             }
         } finally {
             scanner.close();
