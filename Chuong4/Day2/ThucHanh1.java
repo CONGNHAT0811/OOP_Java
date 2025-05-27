@@ -28,7 +28,6 @@ public class ThucHanh1 {
             if (arraylist1.get(i) == b) {
                 arraylist1.remove(i);
             }
-            
         }
         System.out.println(arraylist1);
 
