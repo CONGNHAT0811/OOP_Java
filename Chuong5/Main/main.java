@@ -1,9 +1,7 @@
 package Chuong5.Main;
 import Chuong5.Student.Score;
-import Chuong5.Student.Subject;
 import Chuong5.Student.Student;
 import java.util.Scanner;
-import Chuong5.Person.Person;
 import java.util.HashMap;
 
 

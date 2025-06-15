@@ -13,7 +13,6 @@ public class Lession1 {
                 System.out.println("Nhập hình tròn thu " + (i + 1));
                 HinhTrons[i] = new HinhTron();
                 HinhTrons[i].nhapThongTin(scanner);
-                HinhTrons[]
 
             }
         } finally {

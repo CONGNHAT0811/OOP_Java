@@ -1,7 +1,4 @@
 package Chuong5.Student;
-import Chuong5.Person.Person;
-import Chuong5.Student.Student;
-import Chuong5.Student.Subject;
 import java.util.Scanner;
 
 public class Score extends Subject{

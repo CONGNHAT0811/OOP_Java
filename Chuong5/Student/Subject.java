@@ -1,5 +1,4 @@
 package Chuong5.Student;
-import Chuong5.Student.Student;
 import java.util.Scanner;
 
 public class Subject extends Student {
